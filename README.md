@@ -1,6 +1,6 @@
 ### Hi there 👋:
 I am currently studying software development.<br/>
-I have done Internship as a Fullstack Developer (Spring, Handlebars.js/Vue).<br/>
+I have done internship as a fullstack developer (Spring, Handlebars.js/Vue).<br/>
 <!-- I hope this giphy link keeps working -->
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/26xBQ7d3MeECbUpCU/giphy.gif" width="400" height="280" />
 
