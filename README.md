@@ -1,8 +1,6 @@
 ### Hi there 👋:
 I am currently studying software development.<br/>
 I have done internship as a fullstack developer (Spring, Handlebars.js/Vue).<br/>
-<!-- I hope this giphy link keeps working -->
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/26xBQ7d3MeECbUpCU/giphy.gif" width="400" height="280" />
 
 - 🔭 I’m currently working on Backend Development.
 - 🤔 I’m looking for help with Open Source Contribution.
@@ -17,7 +15,6 @@ I have done internship as a fullstack developer (Spring, Handlebars.js/Vue).<br/
 
 <div align="center">
   
-
-### Show ❤️ by 🌟 my [repositories](https://github.com/xHatchx?tab=repositories)!
+Show ❤️ by 🌟 my [repositories](https://github.com/xHatchx?tab=repositories)!
 
 </div>
