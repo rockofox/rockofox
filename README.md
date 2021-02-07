@@ -8,13 +8,13 @@ I have done internship as a fullstack developer (Spring, Handlebars.js/Vue).<br/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a big nerd.
 - 🎢 Profile Visitors Count:  
-![](https://visitor-badge.glitch.me/badge?page_id=xHatchx.xHatchx)
+![](https://visitor-badge.glitch.me/badge?page_id=felkr.felkr)
 
 <br/>
 
 
 <div align="center">
   
-Show ❤️ by 🌟 my [repositories](https://github.com/xHatchx?tab=repositories)!
+Show ❤️ by 🌟 my [repositories](https://github.com/felkr?tab=repositories)!
 
 </div>
