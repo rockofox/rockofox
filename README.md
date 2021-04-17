@@ -13,9 +13,4 @@ I have done internship as a fullstack developer (Spring, Handlebars.js/Vue).<br/
 
 <br/>
 
-
-<div align="center">
-  
-Show ❤️ by 🌟 my [repositories](https://github.com/felkr?tab=repositories)!
-
-</div>
+![felkrs GitHub stats](https://github-readme-stats.vercel.app/api?username=felkr&show_icons=true&theme=radical)
