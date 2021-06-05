@@ -13,5 +13,5 @@ I have done internship as a fullstack developer (Spring, Handlebars.js/Vue).<br/
 
 <br/>
 
-![felkrs GitHub stats](https://github-readme-stats.vercel.app/api?username=felkr&show_icons=true&theme=radical)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felkr&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![felkrs GitHub stats](https://github-readme-stats.vercel.app/api?username=felkr&show_icons=true&theme=dark)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felkr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
