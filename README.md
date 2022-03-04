@@ -1,8 +1,6 @@
 <div align='center'>
   
 ### Hi there 👋
-I am currently studying software development.<br/>
-I have done internship as a fullstack developer (Spring, Handlebars.js/Vue).
   
   <br/>
 
