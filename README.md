@@ -5,9 +5,7 @@
   <br/>
   
  💼 Working as a full-stack engineer in an AI startup 
-    
- 🧡 In a love/hate relationship with Rust 
-    
+        
  🤔 I’m looking for help with Open Source Contribution. 
   
  💬 Ask me about JavaScript. 
@@ -15,5 +13,3 @@
  😄 Pronouns: He/Him 
   
  ⚡ Fun fact: I'm a big nerd. And I like foxes
-  
-![Metrics](https://metrics.lecoq.io/felkr?template=classic&base.header=0&repositories.skipped=Bento%2C%20felkr.github.io&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FVienna&languages.ignored=c%2C%20html%2C%20css)</div>
