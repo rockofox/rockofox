@@ -1,4 +1,4 @@
-![animal-967658_1280(1)](https://github.com/rockofox/rockofox/assets/5049120/f1d09047-1d0f-4992-ac26-eeec0ad8748e)
+![animal-967658_1280(1)](animal-967658_1280(2).jpg)
 
 A fox that knows its way around (functional) programming! 🦊💻
 
