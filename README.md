@@ -1,8 +1,8 @@
-![animal-967658_1280(1)](animal-967658_1280(2).jpg)
+Programmer, nerd, person that likes foxes quite a bit.
 
-A fox that knows its way around (functional) programming! 🦊💻
+### 🌱 What I'm Up To
 
-## What I'm Up To
+<img src="tent.png" width="400" align="right" />
 
 Here are some recent adventures:
 
@@ -13,7 +13,5 @@ Here are some recent adventures:
 - [**aurora**](https://github.com/rockofox/aurora): A x86 kernel written in C mostly as a learning experience
 - [**rivalbattery**](https://github.com/rockofox/rivalbattery): macOS application to show SteelSeries mouse battery level in the menu bar
 - [**system**](https://github.com/rockofox/system): System configuration using nix.
-
-Feel free to sniff around my projects, and if you're as foxy about nerdy stuff as I am, let's connect! 🦊✨
 
 Thanks for stopping by!
