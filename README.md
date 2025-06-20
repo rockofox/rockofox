@@ -13,5 +13,6 @@ Here are some recent adventures:
 - [**aurora**](https://github.com/rockofox/aurora): A x86 kernel written in C mostly as a learning experience
 - [**rivalbattery**](https://github.com/rockofox/rivalbattery): macOS application to show SteelSeries mouse battery level in the menu bar
 - [**system**](https://github.com/rockofox/system): System configuration using nix.
+- [**stm32-crc**](https://github.com/rockofox/stm32-crc): Tool to work with stm32-flavored CRC checksums
 
 Thanks for stopping by!
