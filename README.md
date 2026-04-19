@@ -1,19 +1,23 @@
-Programmer, nerd, person who likes foxes quite a bit.
+Software engineer with a weakness for theory, functional programming, and rabbit holes.
 
-### 🌱 What I'm Up To
+I work professionally with Kotlin,, TypeScript/Angular, and Kubernetes, and spend my spare time
+exploring CS theory, functional programming, and systems software.
 
-<img src="tent.png" width="400" align="right" />
+### Selected Projects
 
-Here are some recent adventures:
+| Project | Description |
+|---|---|
+| [**indigo**](https://github.com/rockofox/indigo) | Multiparadigm programming language designed around functional principles, implemented in Haskell |
+| [**intellij-haskell-lsp**](https://github.com/rockofox/intellij-haskell-lsp) | IntelliJ plugin providing Haskell language support via `haskell-language-server` |
+| [**obsidian-advanced-find-and-replace**](https://github.com/rockofox/obsidian-advanced-find-and-replace) | Vault-wide regex find-and-replace with capture group support and live preview |
+| [**firefox-minima**](https://github.com/rockofox/firefox-minima) | Minimalist Firefox theme inspired by qutebrowser |
+| [**tatoeba-lookup**](https://github.com/rockofox/tatoeba-lookup) | Browser extension for fetching word definitions from the Tatoeba corpus |
+| [**aurora**](https://github.com/rockofox/aurora) | x86 kernel written in C, an exercise in low-level systems programming I did a couple years ago |
 
-- [**firefox-minima**](https://github.com/rockofox/firefox-minima): Minimalist Firefox Theme inspired by qutebrowser
-- [**indigo**](https://github.com/rockofox/indigo): Multiparadigm programming language designed to be satisfyingly functional
-- [**intellij-haskell-lsp**](https://github.com/rockofox/intellij-haskell-lsp): Haskell language support in IntelliJ via `haskell-language-server`
-- [**tatoeba-lookup**](https://github.com/rockofox/tatoeba-lookup): A WebExtension that allows users to fetch and display definitions for selected words from the Tatoeba dictionary.
-- [**aurora**](https://github.com/rockofox/aurora): A x86 kernel written in C mostly as a learning experience
-- [**rivalbattery**](https://github.com/rockofox/rivalbattery): macOS application to show SteelSeries mouse battery level in the menu bar
-- [**stm32-crc**](https://github.com/rockofox/stm32-crc): Tool to work with stm32-flavored CRC checksums
-- [**obsidian-advanced-find-and-replace**](https://github.com/rockofox/obsidian-advanced-find-and-replace): Find and replace text across your vault using regular expressions, with advanced features like capturing groups and a live preview. 
-- [**system**](https://github.com/rockofox/system): System configuration using nix.
+### Technologies
 
-Thanks for stopping by!
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
+![Nix](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
