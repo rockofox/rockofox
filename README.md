@@ -13,6 +13,7 @@ exploring CS theory, functional programming, and systems software.
 | [**firefox-minima**](https://github.com/rockofox/firefox-minima) | Minimalist Firefox theme inspired by qutebrowser |
 | [**tatoeba-lookup**](https://github.com/rockofox/tatoeba-lookup) | Browser extension for fetching word definitions from the Tatoeba corpus |
 | [**aurora**](https://github.com/rockofox/aurora) | x86 kernel written in C, an exercise in low-level systems programming I did a couple years ago |
+| [**tmux-drag**](https://github.com/rockofox/tmux-drag) | Mouse-driven reordering of tmux windows and panes |
 
 ### Technologies
 
